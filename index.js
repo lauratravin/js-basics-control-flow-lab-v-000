@@ -14,5 +14,9 @@ function scuberGreetingForFeet(someValue){
             }
      }
   }
-  return message;     
+  return message;
 }
+function ternaryCheckCity(){
+
+
+ }
