@@ -35,5 +35,5 @@ function switchOnCharmFromTip(Tip){
    default:
      message = 'Bye.';
  }
-
+ return message;
  }
